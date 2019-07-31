@@ -1,3 +1,6 @@
+## Archived
+Discussion has moved here: https://github.com/w3c/csswg-drafts/issues/333
+
 # aspect-ratio
 This is a repo to explore, and hopefully define a way to maintain aspect ratio
 
